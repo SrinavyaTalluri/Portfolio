@@ -145,7 +145,7 @@ margin:20px 30px;
 
 }
 .tab-links.active-link::after{
-    width:50%;
+    width:100%;
 }
 .tab-contents ul li{
     
@@ -165,7 +165,7 @@ margin:20px 30px;
     display:block;
 }
 #Portfolio{
-    padding:50px 0;
+    padding:250px 0;
     color:#f0e7d8;
     font-size:20px;
 }
