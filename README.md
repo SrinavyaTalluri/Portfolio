@@ -3,4 +3,4 @@ My portfolio website is a personalized platform that showcases information about
 Technologies used : HTML5(Structure and content markup),
                     CSS3(Styling and layout design, including responsive design for different devices),JavaScript(Enhancements for interactivity and dynamic content)
 
-My Portfolio is live at : http://127.0.0.1:5500/portfolio/index.html
+My Portfolio is live at : https://srinavyatalluri.github.io/Portfolio/
